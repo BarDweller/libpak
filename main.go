@@ -19,7 +19,7 @@ package libpak
 import (
 	"github.com/buildpacks/libcnb"
 
-	"github.com/paketo-buildpacks/libpak/internal"
+	"github.com/BarDweller/libpak/internal"
 )
 
 // Main is called by the main function of a buildpack, encapsulating both detection and build in the same binary.

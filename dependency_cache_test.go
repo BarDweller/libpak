@@ -31,7 +31,7 @@ import (
 	"github.com/onsi/gomega/ghttp"
 	"github.com/sclevine/spec"
 
-	"github.com/paketo-buildpacks/libpak"
+	"github.com/BarDweller/libpak"
 )
 
 func testDependencyCache(t *testing.T, context spec.G, it spec.S) {

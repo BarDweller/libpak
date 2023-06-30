@@ -29,8 +29,8 @@ import (
 	"github.com/buildpacks/libcnb"
 	"github.com/heroku/color"
 
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/sbom"
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/sbom"
 )
 
 // BuildpackConfiguration represents a build or launch configuration parameter.

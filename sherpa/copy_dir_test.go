@@ -17,10 +17,11 @@
 package sherpa_test
 
 import (
-	"github.com/paketo-buildpacks/libpak/sherpa"
 	"os"
 	"path/filepath"
 	"testing"
+
+	"github.com/BarDweller/libpak/sherpa"
 
 	. "github.com/onsi/gomega"
 	"github.com/sclevine/spec"

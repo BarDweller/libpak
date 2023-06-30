@@ -25,7 +25,7 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/paketo-buildpacks/libpak/carton"
+	"github.com/BarDweller/libpak/carton"
 )
 
 func testLifecycleDependency(t *testing.T, context spec.G, it spec.S) {

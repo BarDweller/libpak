@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/effect"
 	"github.com/buildpacks/libcnb"
 	"github.com/mitchellh/hashstructure/v2"
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/effect"
 )
 
 //go:generate mockery -name SBOMScanner -case=underscore

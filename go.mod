@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/libpak
+module github.com/BarDweller/libpak
 
 go 1.20
 

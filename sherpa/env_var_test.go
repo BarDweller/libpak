@@ -23,7 +23,7 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/sclevine/spec"
 
-	"github.com/paketo-buildpacks/libpak/sherpa"
+	"github.com/BarDweller/libpak/sherpa"
 )
 
 func testEnvVar(t *testing.T, context spec.G, it spec.S) {

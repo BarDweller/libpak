@@ -7,12 +7,12 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/effect"
+	"github.com/BarDweller/libpak/effect/mocks"
+	"github.com/BarDweller/libpak/sbom"
 	"github.com/buildpacks/libcnb"
 	. "github.com/onsi/gomega"
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/effect"
-	"github.com/paketo-buildpacks/libpak/effect/mocks"
-	"github.com/paketo-buildpacks/libpak/sbom"
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 )

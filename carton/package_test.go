@@ -26,10 +26,10 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/paketo-buildpacks/libpak/carton"
-	cMocks "github.com/paketo-buildpacks/libpak/carton/mocks"
-	"github.com/paketo-buildpacks/libpak/effect"
-	eMocks "github.com/paketo-buildpacks/libpak/effect/mocks"
+	"github.com/BarDweller/libpak/carton"
+	cMocks "github.com/BarDweller/libpak/carton/mocks"
+	"github.com/BarDweller/libpak/effect"
+	eMocks "github.com/BarDweller/libpak/effect/mocks"
 )
 
 func testPackage(t *testing.T, context spec.G, it spec.S) {

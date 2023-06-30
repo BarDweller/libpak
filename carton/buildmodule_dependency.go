@@ -22,9 +22,9 @@ import (
 	"os"
 	"regexp"
 
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/internal"
 	"github.com/BurntSushi/toml"
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/internal"
 )
 
 const (

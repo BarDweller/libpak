@@ -19,8 +19,8 @@ package libpak
 import (
 	"github.com/buildpacks/libcnb"
 
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/internal"
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/internal"
 )
 
 // Detect is called by the main function of a buildpack, for detection.

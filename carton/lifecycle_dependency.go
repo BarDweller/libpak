@@ -21,8 +21,8 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/internal"
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/internal"
 )
 
 const (

@@ -28,11 +28,11 @@ import (
 
 	"github.com/buildpacks/libcnb"
 
-	"github.com/paketo-buildpacks/libpak/internal"
-	"github.com/paketo-buildpacks/libpak/sbom"
-	"github.com/paketo-buildpacks/libpak/sherpa"
+	"github.com/BarDweller/libpak/internal"
+	"github.com/BarDweller/libpak/sbom"
+	"github.com/BarDweller/libpak/sherpa"
 
-	"github.com/paketo-buildpacks/libpak/bard"
+	"github.com/BarDweller/libpak/bard"
 )
 
 // LayerContributor is a helper for implementing a libcnb.LayerContributor in order to get consistent logging and

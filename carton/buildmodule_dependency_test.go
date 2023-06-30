@@ -25,8 +25,8 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/paketo-buildpacks/libpak/carton"
-	"github.com/paketo-buildpacks/libpak/internal"
+	"github.com/BarDweller/libpak/carton"
+	"github.com/BarDweller/libpak/internal"
 )
 
 func testBuildpackDependency(t *testing.T, context spec.G, it spec.S) {

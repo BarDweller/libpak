@@ -3,9 +3,9 @@ package internal_test
 import (
 	"testing"
 
+	"github.com/BarDweller/libpak/internal"
 	"github.com/BurntSushi/toml"
 	. "github.com/onsi/gomega"
-	"github.com/paketo-buildpacks/libpak/internal"
 	"github.com/sclevine/spec"
 )
 

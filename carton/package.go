@@ -28,10 +28,10 @@ import (
 	"github.com/buildpacks/libcnb"
 	"github.com/heroku/color"
 
-	"github.com/paketo-buildpacks/libpak"
-	"github.com/paketo-buildpacks/libpak/bard"
-	"github.com/paketo-buildpacks/libpak/effect"
-	"github.com/paketo-buildpacks/libpak/internal"
+	"github.com/BarDweller/libpak"
+	"github.com/BarDweller/libpak/bard"
+	"github.com/BarDweller/libpak/effect"
+	"github.com/BarDweller/libpak/internal"
 )
 
 // Package is an object that contains the configuration for building a package.

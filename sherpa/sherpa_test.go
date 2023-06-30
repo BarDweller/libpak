@@ -26,8 +26,8 @@ import (
 	"github.com/sclevine/spec"
 	"github.com/stretchr/testify/mock"
 
-	"github.com/paketo-buildpacks/libpak/sherpa"
-	mocks2 "github.com/paketo-buildpacks/libpak/sherpa/mocks"
+	"github.com/BarDweller/libpak/sherpa"
+	mocks2 "github.com/BarDweller/libpak/sherpa/mocks"
 )
 
 func testSherpa(t *testing.T, context spec.G, it spec.S) {

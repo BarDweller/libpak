@@ -1,9 +1,9 @@
-# `github.com/paketo-buildpacks/libpak`
+# `github.com/BarDweller/libpak`
 `libpak` is a Go library with useful functionality for building Paketo-style buildpacks.
 
 ## Usage
 ```
-go get github.com/paketo-buildpacks/libpak
+go get github.com/BarDweller/libpak
 ```
 
 ## License

@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/paketo-buildpacks/libpak/bard"
+	"github.com/BarDweller/libpak/bard"
 )
 
 // EnvironmentWriter is an implementation of the libcnb.EnvironmentWriter interface.

@@ -3,8 +3,8 @@ package libpak_test
 import (
 	"testing"
 
+	"github.com/BarDweller/libpak"
 	. "github.com/onsi/gomega"
-	"github.com/paketo-buildpacks/libpak"
 	"github.com/sclevine/spec"
 )
 
